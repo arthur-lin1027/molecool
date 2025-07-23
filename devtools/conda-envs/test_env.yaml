@@ -6,7 +6,7 @@ dependencies:
     # Base depends
   - python
   - pip
-
+  - numpy
     # Testing
   - pytest
   - pytest-cov
